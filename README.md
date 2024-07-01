@@ -2,6 +2,14 @@
 a multi-view graph attention network based method for inferring gene regulatory networks from single-cell transcriptomic data
 
 
+### Requirement
+- Python == 3.7.3
+- Pytorch == 1.9.1
+- scikit-learn==1.0.2
+- numpy==1.19.3
+- pandas==1.2.4
+- scipy==1.7.3
+
 ### Data Preparation
 
 ```
