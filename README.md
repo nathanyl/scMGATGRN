@@ -3,8 +3,8 @@ a multi-view graph attention network based method for inferring gene regulatory 
 
 
 ### Requirement
-- Python == 3.7.3
-- Pytorch == 1.9.1
+- python == 3.7.3
+- torch == 1.9.1
 - scikit-learn==1.0.2
 - numpy==1.19.3
 - pandas==1.2.4
