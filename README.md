@@ -511,7 +511,12 @@ project_base_path
           | Train_set.csv
           | Validation_set.csv
 ```
-               
+
+ ### Usage
+ Command to run scMGATGRN 
+ ```
+ python main.py --epochs 20 --batch_size 256 --net Specific --num 500 --data hHEP
+```
            
 
              
